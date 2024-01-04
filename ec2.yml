@@ -5,7 +5,7 @@
   vars:
     keypair: Sharath
     instance_type: t3.micro
-    image: ""ami-03643cf1426c9b40b
+    image: "ami-03643cf1426c9b40b"
     region: us-east-1
     user_access_key: "xxxxxxxxxxxxxx"
     user_secret_key: "xxxxxxxxxxxxxxxx"
